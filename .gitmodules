@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/monicareggiani-unipd/monicareggiani-unipd.github.io.git
+	branch = main
